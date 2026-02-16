@@ -20,3 +20,7 @@ Agent Frameworks: Custom prompt engineering, JSON structured outputs.
 Interpretability: TransformerLens, Circuitviz.
 
 APIs: OpenAI SDK.
+
+File System Agent: Built an LLM agent with Function Calling capabilities to autonomously navigate directories, list files, and read content.
+
+Data Governance Agent: Designed an AI auditor that autonomously flags datasets for class imbalance, privacy risks, and bias.
